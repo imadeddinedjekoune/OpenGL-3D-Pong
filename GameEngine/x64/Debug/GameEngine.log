@@ -1,0 +1,9 @@
+﻿  GameManager.cpp
+C:\Users\Alif computer\source\repos\GameEngine\GameEngine\Libraries\include\glad\glad.h(27,1): fatal error C1189: #error:  OpenGL header already included, remove this include, glad already provides it
+  Loader.cpp
+C:\Users\Alif computer\source\repos\GameEngine\GameEngine\Loader.cpp(17,37): warning C4838: conversion from 'unsigned __int64' to 'int' requires a narrowing conversion
+C:\Users\Alif computer\source\repos\GameEngine\GameEngine\Loader.cpp(17,79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alif computer\source\repos\GameEngine\GameEngine\Loader.cpp(17,56): warning C4838: conversion from 'unsigned __int64' to 'int' requires a narrowing conversion
+C:\Users\Alif computer\source\repos\GameEngine\GameEngine\Loader.cpp(17,75): warning C4838: conversion from 'unsigned __int64' to 'int' requires a narrowing conversion
+  Main.cpp
+  Generating Code...
